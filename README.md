@@ -1,6 +1,9 @@
 #编写mysql插件
+
 ##查看mysql插件so目录
+
 ###进入mysql后执行如下指令
+
 	SHOW VARIABLES LIKE 'plugin_dir';
 
 显示
